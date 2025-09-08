@@ -1,0 +1,12 @@
+{
+  "perfilGestão": {
+    "name": "Gestão E2E",
+    "email": "gestao@e2eburguer.com.br",
+    "password": "Teste@123!"
+  },
+  "perfilSalão": {
+    "name": "salão E2E",
+    "email": "salao@e2eburguer.com.br",
+    "password": "Teste@123!"
+  }
+}
